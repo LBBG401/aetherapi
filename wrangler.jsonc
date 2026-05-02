@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "aetherapi",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "AetherAPI-Database",
+			"database_id": "e8b67b92-b426-4837-9728-e334a9212da1"
+		}
+	]
+}
